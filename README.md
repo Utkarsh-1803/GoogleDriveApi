@@ -16,7 +16,7 @@ Before using this project, ensure you have the following prerequisites installed
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/yourproject.git
+   git clone https://github.com/Utkarsh-1803/GoogleDriveApi.git
 
 - Navigate to the project directory:
 2. cd yourproject
@@ -57,4 +57,4 @@ Contact
 If you have any questions or need assistance with this project, feel free to contact:
 
 Email - utkarshisback1803@gmail.com
-Project Repository: https://github.com/yourusername/yourproject
+Project Repository: https://github.com/Utkarsh-1803/GoogleDriveApi.git
